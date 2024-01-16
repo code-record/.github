@@ -15,6 +15,9 @@
 
 - 회고: https://github.com/code-record/retrospect001
 
+
+📜 문의하기 > justjh30@gmail.com
+
 <!--
 
 **Here are some ideas to get you started:**
